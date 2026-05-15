@@ -1,0 +1,1 @@
+voms-proxy-init --voms cms --valid 192:00 -out /pnfs/knu.ac.kr/data/cms/store/user/jongyeob/public/x509up
